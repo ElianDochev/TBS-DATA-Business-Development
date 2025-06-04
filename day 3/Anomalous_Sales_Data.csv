@@ -1,0 +1,190 @@
+Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin,Sales Method,State Abbreviation,Price Range,Z-score
+Foot Locker,1185732,2020-01-01,Northeast,New York,New York,Men's Street Footwear,50.0,1200.0,600000.0,300000.0,0.5,In-store,NY,"(40, 50]",3.570608689471159
+Foot Locker,1185732,2020-01-05,Northeast,New York,New York,Men's Apparel,60.0,900.0,540000.0,162000.0,0.3,In-store,NY,"(50, 60]",3.147823429682711
+Foot Locker,1185732,2020-01-07,Northeast,New York,New York,Men's Street Footwear,50.0,1250.0,625000.0,312500.0,0.5,In-store,NY,"(40, 50]",3.746769214383012
+Foot Locker,1185732,2020-01-23,Northeast,New York,New York,Men's Apparel,60.0,900.0,540000.0,162000.0,0.3,Outlet,NY,"(50, 60]",3.147823429682711
+Foot Locker,1185732,2020-01-25,Northeast,New York,New York,Men's Street Footwear,50.0,1220.0,610000.0,305000.0,0.5,Outlet,NY,"(40, 50]",3.6410728994359
+Foot Locker,1185732,2020-01-31,Northeast,New York,New York,Men's Street Footwear,50.0,1200.0,600000.0,300000.0,0.5,Outlet,NY,"(40, 50]",3.570608689471159
+Foot Locker,1185732,2020-02-06,Northeast,New York,New York,Men's Street Footwear,60.0,1220.0,732000.0,366000.0,0.5,Outlet,NY,"(50, 60]",4.500736261005743
+Foot Locker,1185732,2020-02-10,Northeast,New York,New York,Men's Apparel,60.0,875.0,525000.0,157500.0,0.3,Outlet,NY,"(50, 60]",3.042127114735599
+Foot Locker,1185732,2020-03-03,Northeast,New York,New York,Women's Apparel,65.0,1000.0,650000.0,162500.0,0.25,Outlet,NY,"(60, 70]",3.9229297392948648
+Foot Locker,1185732,2020-03-04,Northeast,New York,New York,Men's Street Footwear,60.0,1250.0,750000.0,375000.0,0.5,Outlet,NY,"(50, 60]",4.627571838942278
+Foot Locker,1185732,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1000.0,550000.0000000001,165000.00000000003,0.3,Outlet,NY,"(50, 60]",3.2182876396474533
+Foot Locker,1185732,2020-03-08,Northeast,New York,New York,Men's Apparel,60.0,900.0,540000.0,162000.0,0.3,Outlet,NY,"(50, 60]",3.147823429682711
+Foot Locker,1185732,2020-03-09,Northeast,New York,New York,Women's Apparel,65.0,1050.0,682500.0,170625.0,0.25,Outlet,NY,"(60, 70]",4.151938421680274
+Foot Locker,1185732,2020-03-10,Northeast,New York,New York,Men's Street Footwear,60.0,1275.0,765000.0,382500.0,0.5,Outlet,NY,"(50, 60]",4.73326815388939
+Foot Locker,1185732,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1025.0,563750.0000000001,169125.00000000003,0.3,Outlet,NY,"(50, 60]",3.3151759283489723
+Foot Locker,1185732,2020-03-14,Northeast,New York,New York,Men's Apparel,60.0,925.0,555000.0,166500.0,0.3,Outlet,NY,"(50, 60]",3.253519744629823
+Foot Locker,1185732,2020-03-15,Northeast,New York,New York,Women's Apparel,65.0,1100.0,715000.0,178750.0,0.25,Outlet,NY,"(60, 70]",4.380947104065683
+Foot Locker,1185732,2020-03-16,Northeast,New York,New York,Men's Street Footwear,60.0,1250.0,750000.0,375000.0,0.5,Outlet,NY,"(50, 60]",4.627571838942278
+Foot Locker,1185732,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1025.0,563750.0000000001,169125.00000000003,0.3,Outlet,NY,"(50, 60]",3.3151759283489723
+Walmart,1185732,2020-04-17,Northeast,New York,New York,Men's Apparel,60.0,900.0,540000.0,162000.0,0.3,Outlet,NY,"(50, 60]",3.147823429682711
+Walmart,1185732,2020-04-18,Northeast,New York,New York,Women's Apparel,65.0,1075.0,698750.0,174687.5,0.25,Outlet,NY,"(60, 70]",4.266442762872979
+Walmart,1185732,2020-04-19,Northeast,New York,New York,Men's Street Footwear,60.0,1200.0,720000.0,360000.0,0.5,Outlet,NY,"(50, 60]",4.416179209048054
+Walmart,1185732,2020-04-20,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1000.0,550000.0000000001,165000.00000000003,0.3,Outlet,NY,"(50, 60]",3.2182876396474533
+Walmart,1185732,2020-04-23,Northeast,New York,New York,Men's Apparel,60.0,900.0,540000.0,162000.0,0.3,Outlet,NY,"(50, 60]",3.147823429682711
+Walmart,1185732,2020-04-24,Northeast,New York,New York,Women's Apparel,65.0,1000.0,650000.0,162500.0,0.25,Outlet,NY,"(60, 70]",3.9229297392948648
+Walmart,1185732,2020-04-25,Northeast,New York,New York,Men's Apparel,65.0,875.0,568750.0,170625.0,0.3,Outlet,NY,"(60, 70]",3.3504080333313424
+Walmart,1185732,2020-04-26,Northeast,New York,New York,Women's Apparel,70.0,1000.0,700000.0,175000.0,0.25,Outlet,NY,"(60, 70]",4.275250789118571
+Walmart,1185732,2020-04-27,Northeast,New York,New York,Men's Street Footwear,65.0,1150.0,747500.0,373750.0,0.5,Outlet,NY,"(60, 70]",4.609955786451092
+Walmart,1185732,2020-04-28,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,975.0,536250.0000000001,160875.00000000003,0.3,Outlet,NY,"(50, 60]",3.121399350945934
+Walmart,1185732,2020-05-01,Northeast,New York,New York,Men's Apparel,65.0,875.0,568750.0,170625.0,0.3,Outlet,NY,"(60, 70]",3.3504080333313424
+Walmart,1185732,2020-05-02,Northeast,New York,New York,Women's Apparel,70.0,975.0,682500.0,170625.0,0.25,Outlet,NY,"(60, 70]",4.151938421680274
+Walmart,1185732,2020-05-03,Northeast,New York,New York,Men's Street Footwear,65.0,1200.0,780000.0,390000.0,0.5,Outlet,NY,"(60, 70]",4.838964468836501
+Walmart,1185732,2020-05-04,Northeast,New York,New York,Men's Athletic Footwear,55.00000000000001,1000.0,550000.0000000001,165000.00000000003,0.3,Outlet,NY,"(50, 60]",3.2182876396474533
+Walmart,1185732,2020-05-05,Northeast,New York,New York,Women's Street Footwear,55.00000000000001,950.0,522500.00000000006,182875.0,0.35,Outlet,NY,"(50, 60]",3.0245110622444145
+Walmart,1185732,2020-05-07,Northeast,New York,New York,Men's Apparel,65.0,900.0,585000.0,175500.0,0.3,Outlet,NY,"(60, 70]",3.464912374524047
+Walmart,1185732,2020-07-18,Northeast,New York,New York,Women's Apparel,70.0,1000.0,700000.0,175000.0,0.25,Outlet,NY,"(60, 70]",4.275250789118571
+West Gear,1128299,2020-12-25,West,California,San Francisco,Men's Street Footwear,60.0,875.0,525000.0,183750.00000000003,0.35000000000000003,Outlet,CA,"(50, 60]",3.042127114735599
+West Gear,1128299,2020-12-30,West,California,San Francisco,Women's Apparel,80.0,700.0,560000.0,84000.00000000001,0.15000000000000002,Outlet,CA,"(70, 80]",3.2887518496121935
+West Gear,1128299,2020-12-31,West,California,San Francisco,Men's Street Footwear,60.0,900.0,540000.0,216000.0,0.4,Outlet,CA,"(50, 60]",3.147823429682711
+West Gear,1128299,2021-01-05,West,California,San Francisco,Women's Apparel,80.0,725.0,580000.0,116000.0,0.2,Outlet,CA,"(70, 80]",3.429680269541676
+West Gear,1128299,2021-01-06,West,California,San Francisco,Men's Street Footwear,60.0,975.0,585000.0,234000.0,0.4,Outlet,CA,"(50, 60]",3.464912374524047
+West Gear,1128299,2021-01-07,West,California,San Francisco,Men's Athletic Footwear,65.0,825.0,536250.0,134062.5,0.25,Outlet,CA,"(60, 70]",3.121399350945933
+West Gear,1128299,2021-01-08,West,California,San Francisco,Women's Street Footwear,65.0,825.0,536250.0,214500.0,0.4,Outlet,CA,"(60, 70]",3.121399350945933
+West Gear,1128299,2021-01-11,West,California,San Francisco,Women's Apparel,80.0,875.0,700000.0,140000.0,0.2,Outlet,CA,"(70, 80]",4.275250789118571
+West Gear,1128299,2021-01-12,West,California,San Francisco,Men's Street Footwear,60.0,1025.0,615000.0,215250.00000000003,0.35000000000000003,Outlet,CA,"(50, 60]",3.6763050044182704
+West Gear,1128299,2021-01-13,West,California,San Francisco,Men's Athletic Footwear,65.0,875.0,568750.0,113750.0,0.2,Outlet,CA,"(60, 70]",3.3504080333313424
+West Gear,1128299,2021-01-14,West,California,San Francisco,Women's Street Footwear,65.0,825.0,536250.0,187687.50000000003,0.35000000000000003,Outlet,CA,"(60, 70]",3.121399350945933
+West Gear,1128299,2021-01-17,West,California,San Francisco,Women's Apparel,80.0,775.0,620000.0,93000.00000000001,0.15000000000000002,Outlet,CA,"(70, 80]",3.7115371094006413
+West Gear,1128299,2021-01-18,West,California,San Francisco,Men's Street Footwear,65.0,975.0,633750.0,221812.50000000003,0.35000000000000003,Outlet,CA,"(60, 70]",3.8084253981021603
+West Gear,1128299,2021-01-19,West,California,San Francisco,Men's Athletic Footwear,70.0,925.0,647500.0,129500.0,0.2,Outlet,CA,"(60, 70]",3.9053136868036797
+West Gear,1128299,2021-01-20,West,California,San Francisco,Women's Street Footwear,65.0,800.0,520000.0,182000.00000000003,0.35000000000000003,Outlet,CA,"(60, 70]",3.0068950097532285
+West Gear,1128299,2021-01-22,West,California,San Francisco,Men's Apparel,75.0,750.0,562500.0,281250.0,0.5,Outlet,CA,"(70, 80]",3.306367902103379
+West Gear,1128299,2021-01-23,West,California,San Francisco,Women's Apparel,80.0,725.0,580000.0,87000.00000000001,0.15000000000000002,Outlet,CA,"(70, 80]",3.429680269541676
+West Gear,1128299,2021-01-25,West,California,San Francisco,Men's Athletic Footwear,60.00000000000001,925.0,555000.0000000001,83250.00000000001,0.15,Outlet,CA,"(60, 70]",3.253519744629824
+West Gear,1128299,2021-01-29,West,California,San Francisco,Women's Apparel,70.0,775.0,542500.0,54250.0,0.1,Outlet,CA,"(60, 70]",3.1654394821738965
+West Gear,1128299,2021-01-31,West,California,San Francisco,Men's Athletic Footwear,60.00000000000001,875.0,525000.0000000001,78750.00000000001,0.15,Outlet,CA,"(60, 70]",3.0421271147356
+West Gear,1128299,2021-02-06,West,California,San Francisco,Men's Athletic Footwear,60.00000000000001,875.0,525000.0000000001,78750.00000000001,0.15,Outlet,CA,"(60, 70]",3.0421271147356
+West Gear,1128299,2021-02-10,West,California,San Francisco,Women's Apparel,70.0,775.0,542500.0,54250.0,0.1,Outlet,CA,"(60, 70]",3.1654394821738965
+West Gear,1128299,2021-02-11,West,California,San Francisco,Men's Street Footwear,55.00000000000001,975.0,536250.0000000001,160875.00000000006,0.30000000000000004,Outlet,CA,"(50, 60]",3.121399350945934
+West Gear,1128299,2021-02-12,West,California,San Francisco,Men's Athletic Footwear,60.00000000000001,975.0,585000.0000000001,87750.00000000001,0.15,Outlet,CA,"(60, 70]",3.4649123745240478
+West Gear,1128299,2021-02-16,West,California,San Francisco,Women's Apparel,70.0,800.0,560000.0,56000.0,0.1,Outlet,CA,"(60, 70]",3.2887518496121935
+Kohl's,1189833,2021-04-24,West,California,Los Angeles,Women's Apparel,65.0,800.0,520000.0,104000.0,0.2,Outlet,CA,"(60, 70]",3.0068950097532285
+Sports Direct,1197831,2021-10-21,South,Texas,Dallas,Women's Apparel,70.0,775.0,542500.0,298375.0,0.55,Outlet,TX,"(60, 70]",3.1654394821738965
+West Gear,1128299,2020-04-19,West,Colorado,Denver,Women's Apparel,85.00000000000001,625.0,531250.0000000001,159375.00000000003,0.3,In-store,CO,"(80, 90]",3.0861672459635634
+West Gear,1128299,2020-06-25,West,Washington,Seattle,Men's Street Footwear,75.0,750.0,562500.0,168750.0,0.3,In-store,WA,"(70, 80]",3.306367902103379
+West Gear,1128299,2020-06-30,West,Washington,Seattle,Women's Apparel,100.0,675.0,675000.0,135000.0,0.2,In-store,WA,"(90, 100]",4.099090264206718
+West Gear,1128299,2020-07-01,West,Washington,Seattle,Men's Street Footwear,80.0,825.0,660000.0,198000.0,0.3,In-store,WA,"(70, 80]",3.9933939492596062
+West Gear,1128299,2020-07-02,West,Washington,Seattle,Men's Athletic Footwear,85.00000000000001,675.0,573750.0000000001,143437.50000000003,0.25,In-store,WA,"(80, 90]",3.385640138313714
+West Gear,1128299,2020-07-03,West,Washington,Seattle,Women's Street Footwear,85.00000000000001,625.0,531250.0000000001,132812.50000000003,0.25,In-store,WA,"(80, 90]",3.0861672459635634
+West Gear,1128299,2020-07-06,West,Washington,Seattle,Women's Apparel,100.0,575.0,575000.0,115000.0,0.2,In-store,WA,"(90, 100]",3.3944481645593054
+West Gear,1128299,2020-07-07,West,Washington,Seattle,Men's Street Footwear,85.00000000000001,775.0,658750.0000000001,197625.00000000003,0.3,In-store,WA,"(80, 90]",3.9845859230140146
+West Gear,1128299,2020-07-08,West,Washington,Seattle,Men's Athletic Footwear,80.00000000000001,750.0,600000.0000000001,150000.00000000003,0.25,In-store,WA,"(80, 90]",3.5706086894711593
+West Gear,1128299,2020-07-30,West,Washington,Seattle,Women's Apparel,95.00000000000001,550.0,522500.00000000006,104500.00000000001,0.2,In-store,WA,"(90, 100]",3.0245110622444145
+West Gear,1128299,2020-07-31,West,Washington,Seattle,Men's Street Footwear,80.00000000000001,750.0,600000.0000000001,180000.00000000003,0.3,In-store,WA,"(80, 90]",3.5706086894711593
+West Gear,1128299,2020-08-01,West,Washington,Seattle,Men's Athletic Footwear,85.00000000000001,750.0,637500.0000000001,159375.00000000003,0.25,In-store,WA,"(80, 90]",3.834849476838939
+West Gear,1128299,2020-08-05,West,Washington,Seattle,Women's Apparel,95.00000000000001,575.0,546250.0000000001,109250.00000000003,0.2,In-store,WA,"(90, 100]",3.1918635609106754
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,55.00000000000001,1070.0,588500.0000000001,264825.00000000006,0.45,In-store,FL,"(50, 60]",3.4895748480117073
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Apparel,65.0,825.0,536250.0,268125.0,0.5,In-store,FL,"(60, 70]",3.121399350945933
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,60.0,1075.0,645000.0,290250.0,0.45,In-store,FL,"(50, 60]",3.8876976343124943
+West Gear,1185732,2020-09-10,Southeast,Florida,Miami,Women's Apparel,70.0,925.0,647500.0,323750.0,0.5,In-store,FL,"(60, 70]",3.9053136868036797
+West Gear,1185732,2020-09-11,Southeast,Florida,Miami,Men's Street Footwear,65.0,1150.0,747500.0,336375.0,0.45,In-store,FL,"(60, 70]",4.609955786451092
+West Gear,1185732,2020-09-12,Southeast,Florida,Miami,Men's Athletic Footwear,60.00000000000001,900.0,540000.0000000001,189000.00000000003,0.35,In-store,FL,"(60, 70]",3.147823429682712
+West Gear,1185732,2020-09-15,Southeast,Florida,Miami,Men's Apparel,65.0,800.0,520000.0,182000.0,0.35,In-store,FL,"(60, 70]",3.0068950097532285
+West Gear,1185732,2020-09-16,Southeast,Florida,Miami,Women's Apparel,70.0,975.0,682500.0,341250.0,0.5,In-store,FL,"(60, 70]",4.151938421680274
+West Gear,1185732,2020-09-17,Southeast,Florida,Miami,Men's Street Footwear,65.0,1125.0,731250.0,329062.5,0.45,In-store,FL,"(60, 70]",4.495451445258388
+West Gear,1185732,2020-09-18,Southeast,Florida,Miami,Men's Athletic Footwear,60.00000000000001,900.0,540000.0000000001,189000.00000000003,0.35,In-store,FL,"(60, 70]",3.147823429682712
+Foot Locker,1185732,2020-09-22,Southeast,Florida,Miami,Women's Apparel,60.00000000000001,925.0,555000.0000000001,277500.00000000006,0.5,In-store,FL,"(60, 70]",3.253519744629824
+Foot Locker,1185732,2020-09-23,Southeast,Florida,Miami,Men's Street Footwear,55.00000000000001,1050.0,577500.0000000001,259875.00000000006,0.45,In-store,FL,"(50, 60]",3.412064217050492
+Sports Direct,1185732,2020-09-29,Southeast,Florida,Miami,Men's Street Footwear,60.00000000000001,1000.0,600000.0000000001,270000.00000000006,0.45,In-store,FL,"(60, 70]",3.5706086894711593
+Sports Direct,1185732,2020-10-04,Southeast,Florida,Miami,Women's Apparel,65.0,825.0,536250.0,268125.0,0.5,In-store,FL,"(60, 70]",3.121399350945933
+Sports Direct,1185732,2020-10-05,Southeast,Florida,Miami,Men's Street Footwear,60.00000000000001,975.0,585000.0000000001,263250.00000000006,0.45,In-store,FL,"(60, 70]",3.4649123745240478
+Sports Direct,1185732,2020-10-10,Southeast,Florida,Miami,Women's Apparel,70.0,850.0,595000.0,297500.0,0.5,In-store,FL,"(60, 70]",3.535376584488788
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Street Footwear,65.0,1075.0,698750.0,314437.5,0.45,In-store,FL,"(60, 70]",4.266442762872979
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Women's Apparel,70.0,875.0,612500.0,306250.0,0.5,In-store,FL,"(60, 70]",3.6586889519270853
+Sports Direct,1197831,2021-10-11,South,Alabama,Birmingham,Women's Apparel,70.0,750.0,525000.0,341250.00000000006,0.6500000000000001,Outlet,AL,"(60, 70]",3.042127114735599
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Apparel,100.0,650.0,650000.0,260000.0,0.4,Outlet,HI,"(90, 100]",3.9229297392948648
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Street Footwear,80.0,800.0,640000.0,160000.0,0.25,Outlet,HI,"(70, 80]",3.8524655293301238
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Athletic Footwear,85.00000000000001,650.0,552500.0000000001,110500.00000000003,0.2,Outlet,HI,"(80, 90]",3.2359036921386384
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Apparel,100.0,550.0,550000.0,220000.0,0.4,Outlet,HI,"(90, 100]",3.2182876396474525
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Street Footwear,85.00000000000001,750.0,637500.0000000001,159375.00000000003,0.25,Outlet,HI,"(80, 90]",3.834849476838939
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Athletic Footwear,75.00000000000001,725.0,543750.0000000001,108750.00000000003,0.2,Outlet,HI,"(70, 80]",3.17424750841949
+Walmart,1128299,2021-12-09,West,Hawaii,Honolulu,Men's Street Footwear,75.00000000000001,700.0,525000.0000000001,131250.00000000003,0.25,Outlet,HI,"(70, 80]",3.0421271147356
+Walmart,1128299,2021-12-09,West,Hawaii,Honolulu,Men's Athletic Footwear,85.00000000000001,700.0,595000.0000000001,119000.00000000003,0.2,Outlet,HI,"(80, 90]",3.5353765844887888
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Street Footwear,64.99999999999999,825.0,536249.9999999999,160874.99999999997,0.3,Outlet,FL,"(60, 70]",3.121399350945932
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Street Footwear,85.0,700.0,595000.0,178500.0,0.3,In-store,FL,"(80, 90]",3.535376584488788
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Apparel,110.00000000000001,750.0,825000.0000000001,371250.00000000006,0.45,In-store,FL,"(110, 120]",5.156053413677838
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Street Footwear,90.0,900.0,810000.0,243000.0,0.3,In-store,FL,"(80, 90]",5.050357098730725
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Athletic Footwear,95.0,750.0,712500.0,178125.0,0.25,In-store,FL,"(90, 100]",4.363331051574498
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Street Footwear,95.0,700.0,665000.0,199500.0,0.3,In-store,FL,"(90, 100]",4.028626054241977
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Athletic Footwear,90.0,600.0,540000.0,162000.0,0.3,In-store,FL,"(80, 90]",3.147823429682711
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Apparel,95.0,650.0,617500.0,123500.0,0.2,In-store,FL,"(90, 100]",3.693921056909456
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Apparel,110.00000000000001,650.0,715000.0000000001,321750.00000000006,0.45,In-store,FL,"(110, 120]",4.380947104065684
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Street Footwear,95.0,850.0,807500.0,242250.0,0.3,In-store,FL,"(90, 100]",5.03274104623954
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Athletic Footwear,85.00000000000001,825.0,701250.0000000001,175312.50000000003,0.25,In-store,FL,"(80, 90]",4.2840588153641646
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Street Footwear,80.0,700.0,560000.0,168000.0,0.3,In-store,FL,"(70, 80]",3.2887518496121935
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Apparel,90.00000000000001,600.0,540000.0000000001,243000.00000000006,0.45,In-store,FL,"(90, 100]",3.147823429682712
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Street Footwear,75.00000000000001,800.0,600000.0000000001,180000.00000000003,0.3,In-store,FL,"(70, 80]",3.5706086894711593
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Athletic Footwear,85.00000000000001,800.0,680000.0000000001,170000.00000000003,0.25,In-store,FL,"(80, 90]",4.13432236918909
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Apparel,95.00000000000001,625.0,593750.0000000001,267187.50000000006,0.45,In-store,FL,"(90, 100]",3.5265685582431963
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Men's Street Footwear,60.0,875.0,525000.0,236250.0,0.45,In-store,NY,"(50, 60]",3.042127114735599
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Street Footwear,65.0,950.0,617500.0,277875.0,0.45,In-store,NY,"(60, 70]",3.693921056909456
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Women's Apparel,70.0,775.0,542500.0,271250.0,0.5,In-store,NY,"(60, 70]",3.1654394821738965
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Street Footwear,65.0,925.0,601250.0,270562.5,0.45,In-store,NY,"(60, 70]",3.5794167157167514
+West Gear,1185732,2021-12-08,Northeast,New York,Albany,Men's Street Footwear,65.0,875.0,568750.0,255937.5,0.45,In-store,NY,"(60, 70]",3.3504080333313424
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Street Footwear,80.0,650.0,520000.0,182000.0,0.35,In-store,VA,"(70, 80]",3.0068950097532285
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Apparel,105.0,700.0,735000.0,220500.0,0.3,In-store,VA,"(100, 110]",4.521875523995166
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Street Footwear,85.0,850.0,722500.0,252874.99999999997,0.35,In-store,VA,"(80, 90]",4.433795261539239
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,90.0,700.0,630000.0,220500.0,0.35,In-store,VA,"(80, 90]",3.7820013193653823
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Street Footwear,90.0,650.0,585000.0,204750.0,0.35,In-store,VA,"(80, 90]",3.464912374524047
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Apparel,90.0,600.0,540000.0,216000.0,0.4,In-store,VA,"(80, 90]",3.147823429682711
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Apparel,105.0,600.0,630000.0,189000.0,0.3,In-store,VA,"(100, 110]",3.7820013193653823
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Street Footwear,90.0,800.0,720000.0,251999.99999999997,0.35,In-store,VA,"(80, 90]",4.416179209048054
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,80.0,775.0,620000.0,217000.0,0.35,In-store,VA,"(70, 80]",3.7115371094006413
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,75.00000000000003,750.0,562500.0000000002,196875.00000000006,0.35,In-store,VA,"(70, 80]",3.3063679021033807
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Men's Street Footwear,60.0,900.0,540000.0,270000.0,0.5,In-store,MI,"(50, 60]",3.147823429682711
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Men's Street Footwear,60.0,875.0,525000.0,262500.0,0.5,In-store,MI,"(50, 60]",3.042127114735599
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Street Footwear,80.0,650.0,520000.0,182000.0,0.35,In-store,OR,"(70, 80]",3.0068950097532285
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Apparel,105.0,700.0,735000.0,220500.0,0.3,In-store,OR,"(100, 110]",4.521875523995166
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Street Footwear,85.0,850.0,722500.0,252874.99999999997,0.35,In-store,OR,"(80, 90]",4.433795261539239
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Athletic Footwear,90.0,700.0,630000.0,220500.0,0.35,In-store,OR,"(80, 90]",3.7820013193653823
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Street Footwear,90.0,650.0,585000.0,204750.0,0.35,In-store,OR,"(80, 90]",3.464912374524047
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Apparel,90.0,600.0,540000.0,216000.0,0.4,In-store,OR,"(80, 90]",3.147823429682711
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Apparel,105.0,600.0,630000.0,189000.0,0.3,In-store,OR,"(100, 110]",3.7820013193653823
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Street Footwear,90.0,800.0,720000.0,251999.99999999997,0.35,In-store,OR,"(80, 90]",4.416179209048054
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Athletic Footwear,80.0,775.0,620000.0,217000.0,0.35,In-store,OR,"(70, 80]",3.7115371094006413
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Athletic Footwear,75.00000000000003,750.0,562500.0000000002,196875.00000000006,0.35,In-store,OR,"(70, 80]",3.3063679021033807
+West Gear,1128299,2021-06-17,South,Louisiana,New Orleans,Women's Street Footwear,85.0,700.0,595000.0,237999.99999999997,0.39999999999999997,Online,LA,"(80, 90]",3.535376584488788
+West Gear,1128299,2021-06-17,South,Louisiana,New Orleans,Women's Apparel,110.00000000000001,750.0,825000.0000000001,288750.0,0.35,Online,LA,"(110, 120]",5.156053413677838
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Men's Street Footwear,90.0,900.0,810000.0,324000.0,0.39999999999999997,Online,LA,"(80, 90]",5.050357098730725
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Men's Athletic Footwear,95.0,750.0,712500.0,285000.0,0.39999999999999997,Online,LA,"(90, 100]",4.363331051574498
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Women's Street Footwear,95.0,700.0,665000.0,266000.0,0.39999999999999997,Online,LA,"(90, 100]",4.028626054241977
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Women's Athletic Footwear,90.0,600.0,540000.0,215999.99999999997,0.39999999999999997,Online,LA,"(80, 90]",3.147823429682711
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Men's Apparel,95.0,650.0,617500.0,277875.0,0.45,Online,LA,"(90, 100]",3.693921056909456
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Women's Apparel,110.00000000000001,650.0,715000.0000000001,250250.00000000003,0.35,Online,LA,"(110, 120]",4.380947104065684
+West Gear,1128299,2021-08-17,South,Louisiana,New Orleans,Men's Street Footwear,95.0,850.0,807500.0,323000.0,0.39999999999999997,Online,LA,"(90, 100]",5.03274104623954
+West Gear,1128299,2021-08-17,South,Louisiana,New Orleans,Men's Athletic Footwear,85.00000000000001,825.0,701250.0000000001,280500.0,0.39999999999999997,Online,LA,"(80, 90]",4.2840588153641646
+West Gear,1128299,2021-08-17,South,Louisiana,New Orleans,Women's Street Footwear,75.00000000000001,700.0,525000.0000000001,210000.00000000003,0.39999999999999997,Online,LA,"(70, 80]",3.0421271147356
+West Gear,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Street Footwear,70.00000000000001,800.0,560000.0000000001,224000.00000000003,0.39999999999999997,Online,LA,"(70, 80]",3.2887518496121944
+West Gear,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Athletic Footwear,80.00000000000003,800.0,640000.0000000002,256000.00000000006,0.39999999999999997,Online,LA,"(80, 90]",3.8524655293301255
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Apparel,90.00000000000003,625.0,562500.0000000002,196875.00000000006,0.35,Online,LA,"(90, 100]",3.3063679021033807
+Foot Locker,1197831,2021-07-06,West,Idaho,Boise,Women's Apparel,65.0,800.0,520000.0,286000.0,0.55,Online,ID,"(60, 70]",3.0068950097532285
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Street Footwear,50.0,1045.0,522500.0,235125.0,0.45,Online,SC,"(40, 50]",3.024511062244414
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Street Footwear,54.99999999999999,1050.0,577499.9999999999,259874.99999999994,0.45,Online,SC,"(50, 60]",3.41206421705049
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Apparel,70.0,925.0,647500.0,323750.0,0.5,Online,SC,"(60, 70]",3.9053136868036797
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Street Footwear,65.0,1150.0,747500.0,336375.0,0.45,Online,SC,"(60, 70]",4.609955786451092
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,900.0,540000.0000000001,189000.00000000003,0.35,Online,SC,"(60, 70]",3.147823429682712
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Apparel,65.0,800.0,520000.0,182000.0,0.35,Online,SC,"(60, 70]",3.0068950097532285
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Apparel,70.0,975.0,682500.0,341250.0,0.5,Online,SC,"(60, 70]",4.151938421680274
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Street Footwear,65.0,1125.0,731250.0,329062.5,0.45,Online,SC,"(60, 70]",4.495451445258388
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,900.0,540000.0000000001,189000.00000000003,0.35,Online,SC,"(60, 70]",3.147823429682712
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Apparel,60.00000000000001,925.0,555000.0000000001,277500.00000000006,0.5,Online,SC,"(60, 70]",3.253519744629824
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Street Footwear,55.00000000000001,1025.0,563750.0000000001,253687.50000000006,0.45,Online,SC,"(50, 60]",3.3151759283489723
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Street Footwear,55.00000000000001,975.0,536250.0000000001,241312.50000000006,0.45,Online,SC,"(50, 60]",3.121399350945934
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Apparel,75.0,825.0,618750.0,309375.0,0.5,Online,SC,"(70, 80]",3.7027290831550483
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Street Footwear,70.0,1075.0,752500.0,338625.0,0.45,Online,SC,"(60, 70]",4.645187891433463
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60.00000000000001,875.0,525000.0000000001,183750.00000000003,0.35,Online,SC,"(60, 70]",3.0421271147356
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Apparel,70.0,775.0,542500.0,189875.0,0.35,Online,SC,"(60, 70]",3.1654394821738965
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Apparel,75.0,875.0,656250.0,328125.0,0.5,Online,SC,"(70, 80]",3.9669698705228282
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Women's Apparel,70.0,825.0,577500.0,288750.0,0.5,Online,NC,"(60, 70]",3.412064217050491
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,65.0,1050.0,682500.0,273000.0,0.4,Online,NC,"(60, 70]",4.151938421680274
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Women's Apparel,70.0,875.0,612500.0,306250.0,0.5,Online,NC,"(60, 70]",3.6586889519270853
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,65.0,1025.0,666250.0,266500.0,0.4,Online,NC,"(60, 70]",4.03743408048757
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Women's Apparel,75.0,725.0,543750.0,271875.0,0.5,Online,NC,"(70, 80]",3.174247508419489
+Sports Direct,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,70.0,975.0,682500.0,273000.0,0.4,Online,NC,"(60, 70]",4.151938421680274
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Apparel,75.0,775.0,581250.0,290625.0,0.5,Online,NC,"(70, 80]",3.438488295787269
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Men's Street Footwear,65.0,900.0,585000.0,234000.0,0.4,Online,OH,"(60, 70]",3.464912374524047
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Men's Street Footwear,65.0,875.0,568750.0,227500.0,0.4,Online,OH,"(60, 70]",3.3504080333313424
+Amazon,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Street Footwear,75.00000000000001,825.0,618750.0000000001,247500.00000000006,0.4,Online,OH,"(70, 80]",3.7027290831550492
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Street Footwear,70.0,775.0,542500.0,217000.0,0.4,Online,MS,"(60, 70]",3.1654394821738965
